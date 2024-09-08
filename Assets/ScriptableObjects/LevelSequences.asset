@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34228c9fca83d674ebb83c993ba2312e, type: 3}
+  m_Name: LevelSequences
+  m_EditorClassIdentifier: 
+  LevelsPropetries:
+  - m_Title: First flight
+    m_SceneName: level_01
+    m_PreviewImage: {fileID: 21300000, guid: 4a520cc7759102940ab0942c23f9e592, type: 3}
+  - m_Title: Dangerous bombs
+    m_SceneName: level_02
+    m_PreviewImage: {fileID: -1651149901, guid: b7c4c87ccdf33d146a4b263a5a38dd2f, type: 3}
